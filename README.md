@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Voolak
-- 👀 I’m interested in web development and game design (Unity)
-- 🌱 I’m currently learning HTML, CSS, Java...
+- 👋 Bonjour, je suis @Voolak 
+- 👀 Je suis interessé par le devellopement web et le game design
+- 🌱 J'apprend en ce moment : HTML, CSS, Java...
 
 <!---
 Voolak/Voolak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
