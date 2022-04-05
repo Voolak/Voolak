@@ -1,8 +1,4 @@
-- 👋 Bonjour, je suis @Voolak 
+### 👋 Bonjour, je suis Andgel Barzana 👋
 - 👀 Je suis interessé par le devellopement web et le game design
 - 🌱 J'apprend en ce moment : React, JavaScript, HTML, CSS, Java...
-
-<!---
-Voolak/Voolak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 Où me contacter : [Linkedin - Andgel Barzana](https://www.linkedin.com/in/andgel-barzana) , [Twitter - @ABarzana](https://twitter.com/ABarzana), [Gmail - abarzana.pro@gmail.com](mailto:abarzana.pro@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
