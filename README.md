@@ -7,5 +7,7 @@
 <br>
 
 ### Je travail actuellement sur ces projet :
-- Un [site pokemon](https://pokeviewer.com) avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de React
-- Un rpg appelé [Tayanna](https://github.com/sukaizer/Tayanna) toujours avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Unity
+- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/pikachu.png" alt="Pikachu" width="25"/> Un [site pokemon](https://pokeviewer.com) avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de React
+- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/tayanna.png" alt="Tayanna" width="25"/> Un rpg appelé [Tayanna](https://github.com/sukaizer/Tayanna) toujours avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Unity
+
+
