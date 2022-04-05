@@ -1,8 +1,8 @@
 ## 👋 Bonjour, je suis Andgel Barzana 👋
 
-- 👀 Je suis interessé par le __devellopement web__ et le __game design__
+- 👀 Je suis interessé par le __dévelopement web__ et le __game design__
 - 🌱 J'apprend en ce moment : React, JavaScript, HTML, CSS, Java...
-- 📫 Où me contacter : [Linkedin - Andgel Barzana](https://www.linkedin.com/in/andgel-barzana) , [Twitter - @ABarzana](https://twitter.com/ABarzana), Gmail - abarzana.pro@gmail.com
+- 📫 Où me contacter : _Linkedin_ - [Andgel Barzana](https://www.linkedin.com/in/andgel-barzana), _Twitter_ - [@ABarzana](https://twitter.com/ABarzana), _Gmail_ - abarzana.pro@gmail.com
 
 <br>
 
