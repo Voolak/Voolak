@@ -8,5 +8,4 @@
 
 ### Je travaille actuellement sur ces projets :
 - <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/pikachu.png" alt="Pikachu" width="25"/> Un [site pokemon](https://pokeviewer.com) avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de React
-- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/tayanna.png" alt="Tayanna" width="25"/> Un rpg appelé [Tayanna](https://github.com/sukaizer/Tayanna) toujours avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Unity
-- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/birdscape.png" alt="BirdScape" width="25"/> Un jeu inspiré de Flappy Bird s'appelant [BirdScape](https://github.com/sukaizer/BirdScape) encore une fois avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Godot
+- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/birdscape.png" alt="BirdScape" width="25"/> Un jeu inspiré de Flappy Bird s'appelant [BirdScape](https://github.com/sukaizer/BirdScape) toujours avec avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Godot
