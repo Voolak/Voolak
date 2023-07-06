@@ -6,6 +6,6 @@
 
 <br>
 
-### Je travaille actuellement sur ces projets :
+### Voici certains de mes projets :
 - <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/pikachu.png" alt="Pikachu" width="25"/> Un [site pokemon](https://pokeviewer.com) avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de React
 - <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/birdscape.png" alt="BirdScape" width="25"/> Un jeu inspiré de Flappy Bird s'appelant [BirdScape](https://github.com/sukaizer/BirdScape) toujours avec avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Godot
