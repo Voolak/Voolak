@@ -4,7 +4,7 @@
 
 # 💼 Voici certains de mes projets :
 
-- 🤫 Je travail actuellement sur un projet utilisant l'api twitch et Godot, mais c'est encore secret 🤫
+- <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/synergy.png" alt="Pikachu" width="25"/> [Synergy](https://github.com/Voolak/Synergy-back/tree/main), une application web inspiré de [Slack](https://slack.com/intl/fr-fr) avec un back en Java et un front basé sur d'Angular
 - <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/pikachu.png" alt="Pikachu" width="25"/> Un [pokedex web](https://poke.alexciorascu.com) avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de React
 - <img src="https://raw.githubusercontent.com/Voolak/Voolak/master/birdscape.png" alt="BirdScape" width="25"/> Un jeu inspiré de Flappy Bird s'appelant [BirdScape](https://github.com/sukaizer/BirdScape) toujours avec [Alexandre Ciorascu](https://github.com/sukaizer), à l'aide de Godot
 
