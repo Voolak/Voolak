@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Andgel Barzana 👋
+# 👋 Bonjour, je suis Andgel Arca 👋
 
 🔭 Je suis interessé par le dévelopement web et le game design<br>🌱 J'apprend en ce moment : Angular, Java, Firebase...<br>💬 Où me contacter : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/andgel-barzana) , abarzana.pro@gmail.com
 
